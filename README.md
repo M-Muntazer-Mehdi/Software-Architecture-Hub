@@ -33,6 +33,9 @@ This folder contains comprehensive resources, code examples, and notes related t
    - [Swing](#swing)
 7. [Java Application](#7-java-application)
    - [MyCalculator](#mycalculator)
+8. [Prerequisites](#8-prerequisites)
+9. [How to Run the Project](#9-how-to-run-the-project)
+10. [Contribution Guidelines](#10-contribution-guidelines)
 
 
 ## 1. Software Architectural Patterns
@@ -193,7 +196,7 @@ This folder contains comprehensive resources, code examples, and notes related t
   
     **Description:** Swing is a set of GUI (Graphical User Interface) components for Java applications that provides a rich set of easy-to-use and customizable graphical components. It is part of the Java Foundation Classes (JFC) and was developed to replace the earlier Abstract Window Toolkit (AWT) for building graphical user interfaces in Java. 
 
-## Java Application
+## 7. Java Application
 - #### MyCalculator
     **File:** [Calculator](https://github.com/M-Muntazer-Mehdi/Software-Architecture-Hub/tree/main/Concept%20File/src/Testing)
     
@@ -212,4 +215,38 @@ This folder contains comprehensive resources, code examples, and notes related t
     </td>
   </tr>
 </table>
+
+## 8. Prerequisites
+
+- Java Development Kit (JDK)
+- Eclipse IDE
+
+## 9. How to Run the Project
+
+1. **Clone the Repository**
+   `git clone <repository_url>`
+
+2. **Open Eclipse and Import Project**
+   - Open Eclipse.
+   - Go to `File` > `Open Project From File System`.
+   - Select `Existing Projects into Workspace` under `General`.
+   - Browse to the project directory and import.
+
+3. **Run the Application**
+   - In Eclipse, navigate to `src/presentationlayer`.
+   - Right-click on the `Welcome` file and select `Run As` > `Java Application`.
+
+4. **Use the Application**
+   - After importing the CSV files, you can start using the dictionary application.
+   - View, search, add, and update dictionary entries as needed.
+
+
+## 10. Contribution Guidelines
+
+- Fork the repository.
+- Create a new branch (`git checkout -b feature-branch`).
+- Make your changes.
+- Commit your changes (`git commit -am 'Add new feature'`).
+- Push to the branch (`git push origin feature-branch`).
+- Create a new Pull Request.
 
