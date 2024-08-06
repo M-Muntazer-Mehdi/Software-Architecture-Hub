@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td align="center">
-    <img src="https://i.ibb.co/Wz79RST/1-M22-DR3-WPqb-WXWid-YIq2-Gw-A.png" alt="1-M22-DR3-WPqb-WXWid-YIq2-Gw-A" border="0" width="700" height="200">
+    <img src="https://i.ibb.co/Wz79RST/1-M22-DR3-WPqb-WXWid-YIq2-Gw-A.png" border="0" width="700" height="200">
     </td>
   </tr>
 </table>
@@ -53,7 +53,7 @@ This folder contains comprehensive resources, code examples, and notes related t
 <table align="center">
   <tr>
     <td align="center">
-    <img src="https://i.ibb.co/0yYfJbb/1.png" alt="1" border="0" width="200" height="200">
+    <img src="https://i.ibb.co/0yYfJbb/1.png" border="0" width="200" height="200">
     </td>
   </tr>
 </table>
@@ -73,7 +73,7 @@ This folder contains comprehensive resources, code examples, and notes related t
 <table align="center">
   <tr>
     <td align="center">
-    <img src="https://i.ibb.co/qCZLF9V/7.png" alt="7" border="0" width="300" height="200">
+    <img src="https://i.ibb.co/qCZLF9V/7.png" border="0" width="300" height="200">
     </td>
   </tr>
 </table>
@@ -138,7 +138,7 @@ This folder contains comprehensive resources, code examples, and notes related t
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://i.ibb.co/PDSLrPz/2.png" alt="2" border="0" width="300" height="200">
+      <img src="https://i.ibb.co/PDSLrPz/2.png" border="0" width="300" height="200">
     </td>
   </tr>
 </table>
@@ -211,7 +211,7 @@ This folder contains comprehensive resources, code examples, and notes related t
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://i.ibb.co/XpkGV0Y/3.png" alt="3" border="0" width="300" height="300">
+      <img src="https://i.ibb.co/XpkGV0Y/3.png" border="0" width="300" height="300">
     </td>
   </tr>
 </table>
